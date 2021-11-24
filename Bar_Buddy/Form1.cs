@@ -28,10 +28,10 @@ namespace Bar_Buddy
             }
             if (checkBoxCover.Checked == true)
             {
-                cover += 15;
+                cover = 15;
             }
 
-
+            validarCampo();
             float amigos = float.Parse(textBoxAmigos.Text);
             int valor = int.Parse(textBoxValor.Text);
 
@@ -54,7 +54,7 @@ namespace Bar_Buddy
 
             if (textBoxAmigos.Text.Equals(""))
             {
-                MessageBox.Show("Valor Amigos é obrigatório", "Alerta",
+                MessageBox.Show("A quantidade de Amigos é obrigatório", "Alerta",
                 MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return false;
             }

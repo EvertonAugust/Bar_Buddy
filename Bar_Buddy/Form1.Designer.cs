@@ -54,7 +54,7 @@ namespace Bar_Buddy
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(40, 75);
+            this.label2.Location = new System.Drawing.Point(74, 75);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(54, 24);
             this.label2.TabIndex = 1;
@@ -64,7 +64,7 @@ namespace Bar_Buddy
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(176, 75);
+            this.label3.Location = new System.Drawing.Point(178, 75);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(74, 24);
             this.label3.TabIndex = 2;
@@ -74,7 +74,7 @@ namespace Bar_Buddy
             // 
             this.labelResultado.AutoSize = true;
             this.labelResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelResultado.Location = new System.Drawing.Point(59, 396);
+            this.labelResultado.Location = new System.Drawing.Point(59, 379);
             this.labelResultado.Name = "labelResultado";
             this.labelResultado.Size = new System.Drawing.Size(0, 25);
             this.labelResultado.TabIndex = 3;
@@ -82,7 +82,7 @@ namespace Bar_Buddy
             // buttonResultado
             // 
             this.buttonResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonResultado.Location = new System.Drawing.Point(43, 314);
+            this.buttonResultado.Location = new System.Drawing.Point(43, 297);
             this.buttonResultado.Name = "buttonResultado";
             this.buttonResultado.Size = new System.Drawing.Size(277, 41);
             this.buttonResultado.TabIndex = 4;
@@ -94,7 +94,7 @@ namespace Bar_Buddy
             // 
             this.checkBoxTaxa.AutoSize = true;
             this.checkBoxTaxa.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBoxTaxa.Location = new System.Drawing.Point(43, 183);
+            this.checkBoxTaxa.Location = new System.Drawing.Point(77, 157);
             this.checkBoxTaxa.Name = "checkBoxTaxa";
             this.checkBoxTaxa.Size = new System.Drawing.Size(171, 33);
             this.checkBoxTaxa.TabIndex = 5;
@@ -105,7 +105,7 @@ namespace Bar_Buddy
             // 
             this.checkBoxCover.AutoSize = true;
             this.checkBoxCover.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBoxCover.Location = new System.Drawing.Point(43, 231);
+            this.checkBoxCover.Location = new System.Drawing.Point(75, 228);
             this.checkBoxCover.Name = "checkBoxCover";
             this.checkBoxCover.Size = new System.Drawing.Size(187, 33);
             this.checkBoxCover.TabIndex = 6;
@@ -114,14 +114,14 @@ namespace Bar_Buddy
             // 
             // textBoxValor
             // 
-            this.textBoxValor.Location = new System.Drawing.Point(43, 102);
+            this.textBoxValor.Location = new System.Drawing.Point(77, 102);
             this.textBoxValor.Name = "textBoxValor";
             this.textBoxValor.Size = new System.Drawing.Size(80, 20);
             this.textBoxValor.TabIndex = 7;
             // 
             // textBoxAmigos
             // 
-            this.textBoxAmigos.Location = new System.Drawing.Point(180, 102);
+            this.textBoxAmigos.Location = new System.Drawing.Point(182, 102);
             this.textBoxAmigos.Name = "textBoxAmigos";
             this.textBoxAmigos.Size = new System.Drawing.Size(80, 20);
             this.textBoxAmigos.TabIndex = 8;
